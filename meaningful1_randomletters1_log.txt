@@ -1,0 +1,20 @@
+position - character
+39   c
+105   p
+175   o
+182   p
+213   h
+221   o
+280   e
+333   e
+340   m
+420   u
+452   r
+521   a
+610   i
+639   c
+675   s
+750   u
+Characters matched : 16
+Number of characters : 978
+Coincidence : 0.016359918200409

@@ -1,0 +1,43 @@
+position - character
+21   c
+22   u
+40   r
+44   e
+77   e
+80   d
+82   a
+83   s
+156   m
+185   s
+220   n
+270   i
+271   s
+292   o
+293   n
+295   f
+297   e
+336   a
+337   n
+358   e
+393   e
+394   r
+432   t
+438   i
+500   n
+549   e
+624   s
+646   n
+652   e
+658   t
+666   r
+709   e
+773   e
+795   g
+808   i
+883   y
+922   o
+943   n
+953   n
+Characters matched : 39
+Number of characters : 977
+Coincidence : 0.03991811668372569
